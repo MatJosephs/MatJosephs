@@ -9,7 +9,7 @@
 _______
 - ⚔️ I am a Penetration Tester and Security Researcher
 - 📝 I write articles on [SecurityCafe](https://securitycafe.ro/author/gingermat/)
-- 🕵🏻 Found CVE-2023-30057, CVE-2023-30056, CVE-2023-36546, CVE-2023-36344
+- 🕵🏻 Found CVE-2023-30057, CVE-2023-30056, CVE-2023-36546, CVE-2023-36344, CVE-2023-48928, CVE-2023-48929
 - 🤝 Let's connect
 
   <a href="https://www.linkedin.com/in/matei-anthony-josephs-325ba5199/" target="_blank">
